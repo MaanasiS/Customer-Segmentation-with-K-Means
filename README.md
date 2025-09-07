@@ -100,7 +100,7 @@ The project covers the complete workflow from data cleaning to visualization.
 
    **```bash**
 
-   **git clone https://github.com/your-username/customer-segmentation-kmeans.git**
+   **git clone https://github.com/MaanasiS/customer-segmentation-kmeans.git**
 
 
 
@@ -138,6 +138,7 @@ The project covers the complete workflow from data cleaning to visualization.
 
 1. **Kaggle E-Commerce Dataset - https://www.kaggle.com/datasets/carrie1/ecommerce-data?utm\_source=chatgpt.com**
 2. **K-Means Clustering (Scikit-Learn) - https://scikit-learn.org/stable/modules/clustering.html?utm\_source=chatgpt.com#k-means**
+
 
 
 
